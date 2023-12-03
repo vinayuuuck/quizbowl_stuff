@@ -12,7 +12,7 @@ We can then plot this data to see the results.
 The graph might show that mythology is the most common category but I'm cheating here a little bit - all the literature(European, American etc), history(American, World etc) and science(Physics, Bio etc) categories are split
 up, and if we add those up the picture becomes a lot less surprising : 1011 in total for both Literature and History, and 1006 for Science
 
-It was only after 6 hours and about 4 hours of code on this that I realised that the entire exercise might be futile. It was only at this time that it occurred to me that maybe it might to a good idea to check if there was some forum or website
+It was only after 6 hours and about 400 lines of code on this that I realised that the entire exercise might be futile. It was only at this time that it occurred to me that maybe it might to a good idea to check if there was some forum or website
 where this distribution was clearly specified. Of course, it was.
 
 Nevertheless, I hope you have fun going through it.
